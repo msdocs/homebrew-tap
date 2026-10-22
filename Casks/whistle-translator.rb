@@ -1,6 +1,6 @@
 cask "whistle-translator" do
-  version "0.2.0"
-  sha256 "2f4e153a605f4a95c9862a74c3493171b08ba977da2c0d8ca28e2e021ab79a34"
+  version "0.3.0"
+  sha256 "58376e1d8900cd3871eb149f4f67060400001f4901536f21e3f2b4c83198b13b"
 
   url "https://mahmoud.sh/whistle-translator/downloads/Whistle-Translator-#{version}.dmg"
   name "Whistle Translator"
